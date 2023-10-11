@@ -2,11 +2,10 @@
 
 
 ✨ My name is Jess and I've been coding since 2017<br>
+✨ Currently in tech space, previously in retail/food service/customer service for 11 years<br>
 ✨ Currently building with JavaScript, React and Java<br>
 ✨ Pursuing AWS Certified Developer certificate<br>
-✨ Currently in tech space, previously in retail/food service/customer service for 11 years<br>
-✨ Whether I'm finding creative solutions to multifaceted challenges or boosting team communication, morale, and efficiency, I thrive on making a difference and leaving things better than I found them<br>
-✨ Whether I'm optimizing workflows or championing innovation that makes a difference, I'm all about driving progress and making a lasting impact<br>
+✨ I'm dedicated to enhancing workflows and driving innovative solutions that have a meaningful and lasting impact <br>
 
 💻 : 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -22,9 +21,8 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Spring](https://img.shields.io/badge/-spring-333333?style=flat&logo=spring&logoColor=green)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=green)
   ![Spring](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=springboot&logoColor=green)
-
 
   🛠️   : 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -32,8 +30,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=orange)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=green)
-
-
   <br>
+<h3> ⭐ Socials </h3>
 
 
+<p align="left">
+<a href="https://www.theunicorndev.com/"><img alt="Website" src="https://img.shields.io/badge/Website-theunicorndev.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jessicatyin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jess_Y-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://unicorndev.hashnode.dev/"><img alt="HashNode" src="https://img.shields.io/badge/Hash_Node-Unicorn_Dev-blue?style=flat-square&logo=hashnode"></a>
+<a href="mailto:yin.jess978@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/yin.jess978@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+[![Jess' GitHub stats](https://github-readme-stats.vercel.app/api?username=jcat1504&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
