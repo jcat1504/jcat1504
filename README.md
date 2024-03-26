@@ -5,6 +5,7 @@
 ✨ Here is my portfolio: https://theunicorndev.com/ <br>
 ✨ Currently in tech space, previously in retail/food service/customer service for 11 years<br>
 ✨ Currently building with JavaScript, React and Java<br>
+✨ Learning more Java as I go!<br>
 ✨ Pursuing AWS Certified Developer certificate<br>
 ✨ I'm dedicated to enhancing workflows and driving innovative solutions that have a meaningful and lasting impact! Let's connect! <br>
 
