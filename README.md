@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there!
 
 
 ✨ My name is Jess and I've been coding since 2017<br>
