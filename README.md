@@ -18,8 +18,6 @@
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=green)
-  ![Spring](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=springboot&logoColor=green)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
